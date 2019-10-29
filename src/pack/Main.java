@@ -6,8 +6,10 @@ public class Main {
 
 	public static void main(String[] args) {
 		
-		Logger logger = Logger.getLogger(Main.class.getName());
-		logger.log(Level.WARNING,"Hello World!!!!");
+		Logger l = Logger.getLogger(Main.class.getName());
+		l.log(Level.INFO,"Hello World!!!!");
+		
+		System.out.println("Gianna!");
 	}
 
 }
