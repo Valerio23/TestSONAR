@@ -9,7 +9,9 @@ public class Main {
 		Logger l = Logger.getLogger(Main.class.getName());
 		l.log(Level.INFO,"Hello World!!!!");
 
-		a = b
+		a = b;
+		d = e;
+		f = g;
 	}
 
 }
