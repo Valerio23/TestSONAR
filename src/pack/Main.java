@@ -8,8 +8,8 @@ public class Main {
 		
 		Logger l = Logger.getLogger(Main.class.getName());
 		l.log(Level.INFO,"Hello World!!!!");
-		
-		c = d;
+
+		a = b
 	}
 
 }
